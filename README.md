@@ -1,5 +1,5 @@
 ## Stanford CS231n: Convolutional Neural Networks for Visual Recognition
-Solutions for CS231n Assignments
+Solutions for [CS231n](http://cs231n.github.io/) Assignments
 ### assignment1:
 - [kNN Classifier](assignment1/knn.ipynb)
 - [SVM Classifier](assignment1/svm.ipynb)
